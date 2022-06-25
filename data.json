@@ -1,5 +1,4 @@
-{
-    "data" :[
+[
         {
             " name": "Free Shirt",
             "category": "Shirts",
@@ -51,4 +50,3 @@
             }
         }
     ]
-}
