@@ -1,0 +1,54 @@
+{
+    "data" :[
+        {
+            " name": "Free Shirt",
+            "category": "Shirts",
+            "price": 7000,
+            "brand": "Nike",
+            "rating": 4.5,
+            "numReviews": 8,
+            "countInStock": 20,
+            "description": "A popular shirt",
+            "primaryImg": "/assets/polo_shirt.png",
+            "image": {
+                "img1": "/assets/img3.png",
+                "img2": "/assets/img4.png",
+                "img3": "/assets/img3.png",
+    
+            }
+        },
+        {
+            " name": "Free Shirt",
+            "category": "Shirts",
+            "price": 7000,
+            "brand": "Nike",
+            "rating": 4.5,
+            "numReviews": 8,
+            "countInStock": 20,
+            "description": "A popular shirt",
+            "primaryImg": "/assets/polo_shirt.png",
+            "image": {
+                "img1": "/assets/img3.png",
+                "img2": "/assets/img4.png",
+                "img3": "/assets/img3.png",
+    
+            }
+        },
+        {
+            " name": "Free Shirt",
+            "category": "Shirts",
+            "price": 7000,
+            "brand": "Nike",
+            "rating": 4.5,
+            "numReviews": 8,
+            "countInStock": 20,
+            "description": "A popular shirt",
+            "primaryImg": "/assets/polo_shirt.png",
+            "image": {
+                "img1": "/assets/img3.png",
+                "img2": "/assets/img4.png",
+                "img3": "/assets/img3.png",
+            }
+        }
+    ]
+}
